@@ -2271,4 +2271,14 @@ And I can confirm this after going deeper in this topic by trying this when I fi
 
 ![](https://i.imgur.com/emL5gIv.png)
 
+## Good Resources
 
+https://www.usenix.org/system/files/conference/woot17/woot17-paper-hay.pdf
+
+https://www.usenix.org/conference/woot17/workshop-program/presentation/hay
+
+https://alephsecurity.com/vulns/aleph-2017024
+
+https://bootlin.com/blog/managing-flash-storage-with-linux/
+
+http://blog.azimuthsecurity.com/2013/04/unlocking-motorola-bootloader.html
